@@ -2,6 +2,7 @@ body {
     width: 1200px;;
     max-width: 12000px;
     margin: 0;
+    padding: 10px;
     text-align: center;
     background-color: aqua;
     border-radius: 10px;
