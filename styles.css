@@ -1,6 +1,6 @@
 body {
-    width: 600px;;
-    max-width: 1000px;
+    width: 1400px;;
+    max-width: 14000px;
     margin: 0;
     text-align: center;
     background-color: aqua;
@@ -17,6 +17,7 @@ img {
     display: block;
     max-width: 100%;
     height: auto;
+    object-fit: cover;
 }
 
 li {
